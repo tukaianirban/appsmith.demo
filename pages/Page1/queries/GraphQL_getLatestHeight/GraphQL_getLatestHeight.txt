@@ -1,0 +1,5 @@
+{
+  blocks(query: {canonical: true}, sortBy: DATETIME_DESC, limit: 1) {
+    blockHeight
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "unpublishedCollection": {
+    "name": "RewardsCalculator",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "finoaDelegationsList",
+        "value": "[\"B62qjGuAFtLagXc7qv8Jj9T9kKNNbfQmd5pJXzFfeHrjEavRFnEDfWV\", \"B62qqgYzT67iGyBudDH5V8w8GowkYG5hjgRdW6xWb4eTyQnTDJQbQJY\"]"
+      },
+      {
+        "name": "myPublicKey",
+        "value": "\"B62qoA5XwfEVnXbcrzphGH1TVuqxeJ5bhX7vTS3hcxpQFHnStG3MQk9\""
+      },
+      {
+        "name": "confirmations",
+        "value": "15"
+      },
+      {
+        "name": "minBlockHeight",
+        "value": "0"
+      },
+      {
+        "name": "fee",
+        "value": "0.1"
+      },
+      {
+        "name": "epoch",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_RewardsCalculator",
+  "deleted": false,
+  "gitSyncId": "64ee1da7f396ca177749a3be_64ef2520e9a4e1119e9be9a2"
+}

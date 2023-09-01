@@ -1,0 +1,14 @@
+query ($epoch: Int) {
+  blocks(query: {canonical: true, protocolState: {consensusState: {epoch: $epoch}}}, limit: 1) {
+    protocolState {
+      consensusState {
+        stakingEpochData {
+          ledger {
+            hash
+          }
+        }
+        epoch
+      }
+    }
+  }
+}

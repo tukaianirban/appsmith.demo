@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "MinaExplorerFunctions",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_MinaExplorerFunctions",
+  "deleted": false,
+  "gitSyncId": "64ee1da7f396ca177749a3be_64ee228ef396ca177749a462"
+}

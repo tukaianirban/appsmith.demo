@@ -1,0 +1,5 @@
+{
+  stakes(query: {}, sortBy: EPOCH_DESC, limit: 1) {
+    epoch
+  }
+}
